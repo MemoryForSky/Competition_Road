@@ -4,7 +4,7 @@
 
 [基于文本挖掘的企业隐患排查质量分析模型](https://www.sodic.com.cn/competitions/900010)
 
-![image-20210628232157298](D:\develop\github\Competition_Road\sodic_enterprise_hidden_dangers\img\20.jpg)
+![image-20210628232157298](./img/20.jpg)
 
 ### 1.1 赛题背景
 
@@ -20,11 +20,11 @@
 
 
 
-![image-20210628213403267](D:\develop\github\Competition_Road\sodic_enterprise_hidden_dangers\img\9.jpg)
+![image-20210628213403267](./img/9.jpg)
 
 **测试集：**
 
-![image-20210628213509197](D:\develop\github\Competition_Road\sodic_enterprise_hidden_dangers\img\10.jpg)
+![image-20210628213509197](./img/10.jpg)
 
 **数据说明：**
 
@@ -34,11 +34,11 @@
 
 **预测结果文件：**
 
-![image-20210628213730940](D:\develop\github\Competition_Road\sodic_enterprise_hidden_dangers\img\11.jpg)
+![image-20210628213730940](./img/11.jpg)
 
 ### 1.4 评测标准
 
-![image-20210628213824015](D:\develop\github\Competition_Road\sodic_enterprise_hidden_dangers\img\12.jpg)
+![image-20210628213824015](./img/12.jpg)
 
 ## 2、比赛总结
 
