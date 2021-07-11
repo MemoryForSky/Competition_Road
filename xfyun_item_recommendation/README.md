@@ -4,7 +4,7 @@
 
 [基于用户画像的商品推荐挑战赛](http://challenge.xfyun.cn/topic/info?type=user-portrait)
 
-![image-20210711212809719](D:\develop\github\Competition_Road\xfyun_item_recommendation\img\0.png)
+![image-20210711212809719](./img/0.png)
 
 ### 1.1 赛题背景
 
